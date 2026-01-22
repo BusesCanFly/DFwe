@@ -10,6 +10,7 @@ For batch programming needs, run the script once and keep plugging in new boards
 
 It was made to be cross-platform (worked well on linux/macos, YMMV on windows 😅)
 
+This is vibe-slop with light manual fixes FWIW!
 
 ## Setup
 
@@ -39,3 +40,7 @@ options:
 2. **Auto-trigger**:    Opens serial at 1200 baud to trigger DFU bootloader mode
 3. **Drive Detection**: Monitors for UF2 bootloader drives (RPI-RP2 or RP2350)
 4. **Flash**:           Copies firmware to the 'drive'
+
+
+## greetz
+s/o DisCo and BT for making me do this
