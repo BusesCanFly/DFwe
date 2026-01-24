@@ -1,6 +1,7 @@
 # DFwe
 (Dee-eff-wheee because its better with friends)
 
+<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2yquiu5th2pivyoouzckz6gc/bafkreieba3gnlc5bu4zid4j5tcyyhidtjstmy4irmhgvp4hnc2noyvlql4@jpeg" width="400" />
 
 ## What
 
